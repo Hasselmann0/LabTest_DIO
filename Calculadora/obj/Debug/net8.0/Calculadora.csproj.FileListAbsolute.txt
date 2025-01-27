@@ -12,3 +12,4 @@ C:\Users\isaac\OneDrive\Área de Trabalho\NewWorld\LabTest_DIO\Calculadora\obj\D
 C:\Users\isaac\OneDrive\Área de Trabalho\NewWorld\LabTest_DIO\Calculadora\obj\Debug\net8.0\Calculadora.pdb
 C:\Users\isaac\OneDrive\Área de Trabalho\NewWorld\LabTest_DIO\Calculadora\obj\Debug\net8.0\Calculadora.genruntimeconfig.cache
 C:\Users\isaac\OneDrive\Área de Trabalho\NewWorld\LabTest_DIO\Calculadora\obj\Debug\net8.0\ref\Calculadora.dll
+C:\Users\isaac\OneDrive\Área de Trabalho\NewWorld\LabTest_DIO\Calculadora\obj\Debug\net8.0\Calculadora.sourcelink.json
